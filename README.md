@@ -95,6 +95,8 @@ https://github.com/smartfriendz/smartcore
 Outros links:
 https://www.thingiverse.com/thing:651117
 
+https://www.youmagine.com/designs/smartcore
+
 
 
 Playlists de Montagem:
