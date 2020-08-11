@@ -58,19 +58,33 @@ R$ 20 , 49 x 1 unidade
 
 
 01x Mega 2560 - 95.00
+
 01x Ramps 1.6 - 60.00
+
 05x Drivers DRV8825 - 100.00
+
 12x Lm8uu - 85.00
+
 1x Kit com 3 Endstops - 23.00
+
 1x Sensor Indutivo LJ18A3-8-Z/BX - 55.00
-1x Extrusora tipo JHead - 120.00 (https://produto.mercadolivre.com.br/MLB-1413633340-hotend-bowden-3d-v6-completo-ptfe-com-conector-full-_JM?quantity=1),
+
+1x Extrusora tipo JHead - 120.00
+
 1x Heatbed MK2B - 80.00
+
 1x LCD Display Lcd 2004 Leitor Sd - 80.00
+
 4x Metro de correia GT2 6mm - 72.00
+
 3x Polias GT2 20 dentes 5mm - 60.00
+
 1x Sensor Nrf24l01 Transceiver Wireless - 13.00
+
 01x Modulo / Sensor Dht11 Temperatura E Umidade - 19.00
+
 01x Módulo Rele 2 Canais Arduino - 20.00
+
 01x Módulo Sensor De Umidade Do Solo Higrômetro - 15.00
 
 Filamento Pla 1.75 Mm 1.75mm 500g Impressora 3d 66 , 50
