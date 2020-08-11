@@ -97,3 +97,8 @@ https://www.thingiverse.com/thing:651117
 
 
 
+Playlists de Montagem:
+https://www.youtube.com/watch?v=8FF7B2Jj_xs&list=PLOC55t9dY7y-2fRXvd7IObr0Z-bgYH7Ys
+
+https://www.youtube.com/watch?v=9BdoanI02Uw&list=PLdicIbVm-MHiKUgaF_GAA_HpnykQfc_y6
+
