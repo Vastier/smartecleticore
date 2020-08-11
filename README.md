@@ -6,6 +6,31 @@ Documentação da construção da minha impressora 3D smartrapcore.
 Lista de Materiais:
 (BOM/Bill of Materials)
 
+
+| Nome Inglês:          | Nome Português                                   | Vendedor      | Preço  |
+|-----------------------|--------------------------------------------------|---------------|--------|
+| **Wood**              | Madeiras MDF                                     | Leroy Merlin  | 74,88  |
+| **Printed parts**     | Kit Peças Abs Impr. 3d Reprap Smartrapcore       | Mercado Livre | 157,50 |
+| **Screws:**           | Parafusos                                        | Mec Fix       | 18,56  |
+| **Rods:**             | Eixo Retificado 8mm X 265mm                      | Mercado Livre | 60,00  |
+| **Stepper motors:**   | Motor De Passo Nema 17 4,2kgf.cm Modelo 17hs4401 | Mercado Livre | 367,80 |
+| **Electronics**       | Mega 2560                                        | TDTech        | 95,00  |
+| **Electronics**       | Ramps 1.6                                        | TDTech        | 60,00  |
+| **Electronics**       | Drivers DRV8825                                  | TDTech        | 100,00 |
+| **Inductive sensor:** | Sensor Indutivo LJ18A3-8-Z/BX                    | TDTech        | 55,00  |
+| **Hotend:**           | Extrusora tipo JHead                             | TDTech        | 120,00 |
+| **Bearings:**         | Rolamento Lm8uu                                  | TDTech        | 85,00  |
+| **Bearings:**         | Rolamento 608zz                                  | Mercado Livre | 20,49  |
+| **GT2 belt 6mm:**     | Metro de correia GT2 6mm                         | TDTech        | 72,00  |
+| **GT2 pulleys :**     | Polias GT2 20 dentes 5mm                         | TDTech        | 60,00  |
+|                       | Endstops                                         | TDTech        | 23,00  |
+|                       | Heatbed MK2B                                     | TDTech        | 80,00  |
+|                       | LCD Display 2004 + Leitor SD                     | TDTech        | 80,00  |
+|                       | Filamento PLA 1.75mm 500g                        | Mercado Livre | 66,50  |
+|                       | Fretes?                                          |               |        |
+
+
+//CHECK & REMOVE
  **Wood** : 4 planks sized like output in openjscad. Thickness is as you like. 
  
  Leroy Merlin
