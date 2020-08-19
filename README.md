@@ -146,3 +146,6 @@ https://www.youtube.com/watch?v=8FF7B2Jj_xs&list=PLOC55t9dY7y-2fRXvd7IObr0Z-bgYH
 
 https://www.youtube.com/watch?v=9BdoanI02Uw&list=PLdicIbVm-MHiKUgaF_GAA_HpnykQfc_y6
 
+Gerar STL das partes da Impressora:
+https://imgur.com/a/Cqw3vyx
+
