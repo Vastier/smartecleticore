@@ -26,8 +26,10 @@ Lista de Materiais:
 |                       | Endstops                                         | TDTech        | 23,00  |
 |                       | Heatbed MK2B                                     | TDTech        | 80,00  |
 |                       | LCD Display 2004 + Leitor SD                     | TDTech        | 80,00  |
+|                       | Polia para Extrusora                             | Mercado Livre | 19,00  |
 |                       | Filamento PLA 1.75mm 500g                        | Mercado Livre | 66,50  |
 |                       | Fretes?                                          |               |        |
+
 
 
 //CHECK & REMOVE
