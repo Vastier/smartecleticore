@@ -141,6 +141,11 @@ https://www.thingiverse.com/thing:651117
 https://www.youmagine.com/designs/smartcore
 
 
+Como ligar Ramps:
+
+https://www.thingiverse.com/thing:2784817
+
+
 
 Playlists de Montagem:
 
