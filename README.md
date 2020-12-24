@@ -145,7 +145,9 @@ Como ligar Ramps:
 
 https://www.thingiverse.com/thing:2784817
 
+Como testar o Sensor Indutivo:
 
+https://www.youtube.com/watch?v=wih4fNkKUCc
 
 Playlists de Montagem:
 
