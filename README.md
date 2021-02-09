@@ -149,6 +149,10 @@ Como testar o Sensor Indutivo:
 
 https://www.youtube.com/watch?v=wih4fNkKUCc
 
+Como configurar Auto Bed Leveling
+
+https://youtu.be/iwhbeD2AduA
+
 Playlists de Montagem:
 
 https://www.youtube.com/watch?v=8FF7B2Jj_xs&list=PLOC55t9dY7y-2fRXvd7IObr0Z-bgYH7Ys
